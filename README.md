@@ -1,5 +1,5 @@
 # FilePumper
-Created by jaxx#0001 - If you want to distribute it, please credit me.
+Created by aftxrlifx - If you want to distribute it, please credit me.
 
 You can either download the existing .exe file or you can compile it yourself using the source files.
 
